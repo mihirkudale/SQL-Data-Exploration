@@ -1,1 +1,1 @@
-# COVID - Data Exploration
+# COVID - SQL Data Exploration 
