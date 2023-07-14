@@ -1,1 +1,1 @@
-# SQL-Project-Data-Exploration
+# COVID - Data Exploration
